@@ -1,0 +1,20 @@
+body {
+text-align: center;
+}
+h1 {
+font-size: 40px;
+font-family: Times New Roman;
+font-weight: 300;
+}
+#app {
+background-color: lightseagreen;
+}
+#games {
+background-color: lightcoral;
+}
+.line {
+height: 6px;
+background-color: black;
+width: 70px;
+margin: 8px auto;
+}
